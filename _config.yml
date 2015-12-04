@@ -11,7 +11,11 @@ description: Kid with load of banter
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:http://avatarfiles.alphacoders.com/625/625.jpg
 
-#
+Code for the storageof image asset
+post_assets:images
+genral_assets:images
+
+
 # Flags below are optional
 #
 
