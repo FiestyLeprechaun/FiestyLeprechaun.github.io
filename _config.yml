@@ -12,8 +12,8 @@ description: Kid with load of banter
 avatar: http://avatarfiles.alphacoders.com/625/625.jpg
 
 #Code for the storageof image asset
-post_assets:images
-genral_assets:images
+post_assets: images
+genral_assets: images
 
 
 # Flags below are optional
